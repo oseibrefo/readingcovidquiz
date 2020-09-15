@@ -36,7 +36,7 @@ const Questions = ({ questions }) => {
             alt="Your Quiz has ended"
           />
           <h3>
-            Your results are out! You scored {score} out of {questions.length}. Kudos and continue keeping  safe!!! 
+            Your covid 19 quiz results are out! You scored {score} out of {questions.length}. Kudos and continue keeping  safe!!! 
           </h3>
         </div>
       ) : (

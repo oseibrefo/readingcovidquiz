@@ -61,7 +61,7 @@ const QuestionForm = ({ closeModal, questionCreate }) => {
       <input
         type="text"
         name="question"
-        placeholder="Enter your covid 19 npm related question...."
+        placeholder="Enter your covid 19 related question...."
         onChange={handleInputChange}
         value={questionForm.question}
         className="question-input"
